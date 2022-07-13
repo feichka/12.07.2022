@@ -1,0 +1,15 @@
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\running.csproj.AssemblyReference.cache
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\running.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\running.AssemblyInfoInputs.cache
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\running.AssemblyInfo.cs
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\running.csproj.CoreCompileInputs.cache
+C:\Users\482\Desktop\Обучение\Семинар С+\running\bin\Debug\net6.0\running.exe
+C:\Users\482\Desktop\Обучение\Семинар С+\running\bin\Debug\net6.0\running.deps.json
+C:\Users\482\Desktop\Обучение\Семинар С+\running\bin\Debug\net6.0\running.runtimeconfig.json
+C:\Users\482\Desktop\Обучение\Семинар С+\running\bin\Debug\net6.0\running.dll
+C:\Users\482\Desktop\Обучение\Семинар С+\running\bin\Debug\net6.0\running.pdb
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\running.dll
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\refint\running.dll
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\running.pdb
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\running.genruntimeconfig.cache
+C:\Users\482\Desktop\Обучение\Семинар С+\running\obj\Debug\net6.0\ref\running.dll
